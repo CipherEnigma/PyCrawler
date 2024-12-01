@@ -1,6 +1,4 @@
-Here’s a sample `README.md` file for your project based on the provided files:
 
----
 
 # Web Scraping Project
 
