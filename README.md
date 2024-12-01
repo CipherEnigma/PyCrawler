@@ -1,7 +1,7 @@
 # PyCrawler
 An AI webscraper platform using Python, selenium, ollama
 This project is an intelligent web scraping tool that utilizes Python, Selenium, and Ollama to extract, analyze, and present data from the web efficiently. Designed for flexibility and ease of use, the scraper is powered by AI to handle dynamic websites, automate complex workflows, and provide meaningful insights beyond raw data extraction.
-Features
+# Features
 Dynamic Web Scraping: Leverages Selenium to interact with JavaScript-driven websites, handle page navigation, form submissions, and other interactive elements.
 AI-Powered Analysis: Integrates with Ollama to process scraped content, summarize key insights, and extract structured information such as sentiment or keywords.
 Customizable Workflow: Easily adaptable for scraping e-commerce, social media, news sites, and more.
